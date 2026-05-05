@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic document fixture</title>
+  <desc id="desc">A fake product reference document.</desc>
+  <rect width="1200" height="720" fill="#e5e7eb"/>
+  <rect x="330" y="60" width="540" height="600" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="390" y="125" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800">Synthetic Product Sheet</text>
+  <line x1="390" y1="155" x2="810" y2="155" stroke="#cbd5e1"/>
+  <text x="390" y="210" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">Product: Citrus Cloud Sparkling Drops</text>
+  <text x="390" y="255" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">Batch: DEMO-0000</text>
+  <text x="390" y="300" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="18">Flavor: Bright citrus</text>
+  <rect x="390" y="350" width="360" height="120" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="415" y="392" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="16">Fake lab-style fields</text>
+  <text x="415" y="426" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="16">No real COA data</text>
+  <text x="415" y="460" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="16">No vendor records</text>
+  <text x="390" y="560" fill="#64748b" font-family="Inter, Arial, sans-serif" font-size="15">Placeholder document for public overview only</text>
+</svg>

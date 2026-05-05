@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Draft review screen</title>
+  <desc id="desc">A fake review workspace for generated product copy.</desc>
+  <rect width="1200" height="720" fill="#f8fafc"/>
+  <text x="70" y="80" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="800">Draft Review</text>
+  <rect x="70" y="120" width="500" height="500" rx="16" fill="#ffffff" stroke="#d7dde5"/>
+  <text x="105" y="170" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">AI Draft</text>
+  <text x="105" y="230" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">Citrus Cloud brings a bright</text>
+  <text x="105" y="260" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">profile and clean finish to a</text>
+  <text x="105" y="290" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">single-serve format...</text>
+  <rect x="630" y="120" width="500" height="500" rx="16" fill="#ffffff" stroke="#d7dde5"/>
+  <text x="665" y="170" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Human-Edited Final</text>
+  <text x="665" y="230" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">Citrus Cloud Sparkling Drops</text>
+  <text x="665" y="260" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">are single-serve beverage</text>
+  <text x="665" y="290" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">enhancers with a bright citrus</text>
+  <text x="665" y="320" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">profile and reviewable claims.</text>
+  <rect x="665" y="515" width="190" height="50" rx="10" fill="#0f766e"/>
+  <text x="710" y="547" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">Approve Copy</text>
+</svg>

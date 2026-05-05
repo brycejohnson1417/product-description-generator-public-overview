@@ -33,15 +33,24 @@ Do not publish:
 - Brand-specific compliance language unless approved.
 - API keys or deployed service config.
 
-## Public Materials To Add
+## Public Materials
 
-- Synthetic product input example.
-- Synthetic document screenshot or fixture.
-- Example draft/final copy pair.
-- Notes on prohibited claims, human review, and prompt guardrails.
-- Architecture diagram showing input, normalize, generate, review, export.
+- [Architecture diagram](docs/ARCHITECTURE.md)
+- [Synthetic product input example](docs/SYNTHETIC_INPUT.md)
+- [Synthetic document fixture](docs/SYNTHETIC_INPUT.md#synthetic-document-fixture)
+- [Example draft/final copy pair](docs/DRAFT_AND_FINAL_COPY.md)
+- [Prohibited claims, human review, and prompt guardrails](docs/GUARDRAILS.md)
+
+## Synthetic Visuals
+
+These examples use fake products, fake lab-style values, and placeholder document content.
+
+![Synthetic product input](assets/synthetic-product-input.svg)
+
+![Synthetic document fixture](assets/synthetic-document-fixture.svg)
+
+![Draft review screen](assets/draft-review-screen.svg)
 
 ## Suggested Public Copy
 
 > A redacted technical overview of a product-copy workflow that turns structured product inputs into reviewable AI-assisted descriptions.
-
